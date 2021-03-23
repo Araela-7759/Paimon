@@ -1,2 +1,2 @@
 # Paimon
-Un divertido bot para discord con muchas funciones!
+Aqui toca poner los usos del bot.
